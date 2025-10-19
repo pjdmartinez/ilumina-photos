@@ -1,3 +1,3 @@
 # ilumina
 
-A new Flutter project.
+A **special** photography app for fun and creative memories.
